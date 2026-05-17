@@ -1,1 +1,2 @@
 This is my first Git activity.
+I edited this inside the feature brand
